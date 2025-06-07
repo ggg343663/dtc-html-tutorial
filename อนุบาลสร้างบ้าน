@@ -4,6 +4,19 @@
   <meta charset="UTF-8">
   <title>คฤหาสน์อนุบาล</title>
 <style>
+button {
+  background: #a259f7;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  padding: 10px 0;
+  width: 100%;
+  font-size: 1.1em;
+  cursor: pointer;
+}
+button:hover {
+  background: #7126c8;
+}
 body {
   background: #e3f0ff;
 }
