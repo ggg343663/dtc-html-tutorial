@@ -24,7 +24,8 @@ body {
 <body>
 <div>
   <h1>ประตูวิเศษ</h1>
-  <form>
+<p>Welcome to my HTML mansion!</p>
+<form>
     <label for="password">รหัสผ่าน:</label>
     <input type="password" id="password" name="password" required>
     <label for="pin">PIN 4 หลัก:</label>
