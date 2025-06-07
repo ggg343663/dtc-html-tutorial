@@ -24,7 +24,7 @@ body {
 <body>
 <div>
   <h1>ประตูวิเศษ</h1>
-<p>Welcome to my HTML mansion!</p>
+<p>Welcome to my HTML mansion!<p>สวนหน้าคฤหาสน์นี้ร่มรื่นมาก!</p> </p>
 <form>
     <label for="password">รหัสผ่าน:</label>
     <input type="password" id="password" name="password" required>
